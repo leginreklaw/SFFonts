@@ -1,7 +1,7 @@
 #!/bin/bash
 # Author: Nigel Walker
 # Website: 
-# Description: Script to install San Francisco Fonts
+# Description: Script to install San Francisco and New York Fonts
 # Dependencies: wget, 7zip
 
 
